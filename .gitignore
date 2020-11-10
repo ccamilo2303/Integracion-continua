@@ -1,0 +1,33 @@
+HELP.md
+target/
+!integracionContinuaService/.mvn/wrapper/maven-wrapper.jar
+!integracionContinuaService/**/src/main/**/target/
+!integracionContinuaService/**/src/test/**/target/
+
+### STS ###
+integracionContinuaService/.apt_generated
+integracionContinuaService/.classpath
+integracionContinuaService/.factorypath
+integracionContinuaService/.project
+integracionContinuaService/.settings
+integracionContinuaService/.springBeans
+integracionContinuaService/.sts4-cache
+
+### IntelliJ IDEA ###
+integracionContinuaService/.idea
+integracionContinuaService/*.iws
+integracionContinuaService/*.iml
+integracionContinuaService/*.ipr
+
+### NetBeans ###
+/integracionContinuaService//nbproject/private/
+/integracionContinuaService//nbbuild/
+/integracionContinuaService//dist/
+/integracionContinuaService//nbdist/
+/integracionContinuaService//.nb-gradle/
+build/
+!integracionContinuaService/**/src/main/**/build/
+!integracionContinuaService/**/src/test/**/build/
+
+### VS Code ###
+integracionContinuaService/.vscode/
